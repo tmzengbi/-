@@ -1,0 +1,7 @@
+{
+    "files.associations": {
+        "*.json": "jsonc",
+        "parallel_for.h": "c",
+        "chrono": "cpp"
+    }
+}
